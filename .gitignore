@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Generated files
+Research_Report.pdf
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Test and coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Installer logs
+pip-log.txt
+
+# Temporary files
+*.tmp
+*.swp

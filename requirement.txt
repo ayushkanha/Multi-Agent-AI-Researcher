@@ -1,0 +1,7 @@
+deepagents 
+langchain-groq 
+langchain-community 
+ddgs 
+langchain-google-genai 
+markdown-pdf
+streamlit

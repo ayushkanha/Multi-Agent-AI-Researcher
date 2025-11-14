@@ -18,7 +18,7 @@ A sophisticated Streamlit application that leverages a collaborative multi-agent
 - **Customizable UI**: A clean and intuitive interface built with Streamlit, with custom CSS for styling.
 
 ## 🏛️ Project Architecture
-agent.png
+*<p align="center">![alt text](agent.png)</p>*
 The application follows a three-stage pipeline:
 
 1.  **Input**: The user provides a research query through the Streamlit interface.
